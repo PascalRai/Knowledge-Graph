@@ -18,3 +18,7 @@
 
 ___
 The KG is made using spacy, extracting single tokens subject, object, and relationship (verb)
+
+REBEL model is also tested.
+<br>The model has good extraction of relations and can be a benchmark for making nodes and edges.
+<br>Though a self-made model is necessary for it to work.
