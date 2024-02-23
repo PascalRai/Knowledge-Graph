@@ -28,5 +28,5 @@ KG methodology Applied:
 
 1. Data Scrapping
 2. Sentence Recognition for each article
-3. For each article, exract root verb (relationship), subject and object using spacy
+3. For each article, extract verb (relationship), subject and object using spacy
 4. Building KG using extracted information and networkx
